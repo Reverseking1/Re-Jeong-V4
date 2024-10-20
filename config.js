@@ -1,16 +1,16 @@
 require("./database/module")
 
 //GLOBAL PAYMENT
-global.storename = "Re-Jeong "
+global.storename = "ReverseKing "
 global.dana = "-"
 global.qris = "https://a.top4top.io/p_319465f4i0.jpeg"
 
 
 // GLOBAL SETTING
-global.owner = "27623649420" //masukin no lu
-global.namabot = "Re-Jeong V4"
-global.nomorbot = "27623649420" //masukin no lu
-global.namaCreator = "Re-Jeong "
+global.owner = "233257514504" //masukin no lu
+global.namabot = "ReverseKing"
+global.nomorbot = "233257514504" //masukin no lu
+global.namaCreator = "ReverseKing "
 global.linkyt = "-"
 global.autoJoin = false
 global.antilink = false
@@ -31,10 +31,10 @@ global.location = '1'
 //GLOBAL THUMB
 
 global.codeInvite = ""
-global.imageurl = 'https://telegra.ph/file/019207dd7bf306d343b7e.jpg'
-global.isLink = 'https://whatsapp.com/channel/0029ValVRdpI1rcfS1rAJq3h'
-global.packname = "Re-Jeong"
-global.author = "Re-Jeong"
+global.imageurl = 'https://i.ibb.co/QXbR0M0/IMG-2996.jpg'
+global.isLink = 'https://whatsapp.com/channel/0029Vao11A529758tTEQZo1e'
+global.packname = "ReverseKing"
+global.author = "Reverse"
 global.jumlah = "5"
 
 
